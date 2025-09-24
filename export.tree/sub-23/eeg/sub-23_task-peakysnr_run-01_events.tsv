@@ -1,9 +1,0 @@
-onset	duration	trial_type	value	sample	n_simultaneous_stimuli	snr	EEG_trigger_start	EEG_trigger_end	file_clicks	file_story1	file_story2	file_story3	file_story4	file_story5
-60.4358	10	clicks	0	604358	1	clean	1	2	clicks/clicks_000_regress.hdf5	n/a	n/a	n/a	n/a	n/a
-70.5053	10	clicks	0	705053	1	clean	1	2	clicks/clicks_001_regress.hdf5	n/a	n/a	n/a	n/a	n/a
-80.5749	10	clicks	0	805749	1	clean	1	2	clicks/clicks_002_regress.hdf5	n/a	n/a	n/a	n/a	n/a
-90.6445	10	clicks	0	906445	1	clean	1	2	clicks/clicks_003_regress.hdf5	n/a	n/a	n/a	n/a	n/a
-100.7141	10	clicks	0	1007141	1	clean	1	2	clicks/clicks_004_regress.hdf5	n/a	n/a	n/a	n/a	n/a
-110.7624	10	clicks	0	1107624	1	clean	1	2	clicks/clicks_005_regress.hdf5	n/a	n/a	n/a	n/a	n/a
-120.8316	10	clicks	0	1208316	1	clean	1	2	clicks/clicks_006_regress.hdf5	n/a	n/a	n/a	n/a	n/a
-130.9005	10	clicks	0	1309005	1	clean	1	2	clicks/clicks_007_regress.hdf5	n/a	n/a	n/a	n/a	n/a

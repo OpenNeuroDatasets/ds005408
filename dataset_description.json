@@ -14,7 +14,8 @@
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds005408.v1.0.0",
     "ReferencesAndLinks": [
-        "TBD"
+        "TBD",
+        "https://www.eneuro.org/content/12/4/ENEURO.0561-24.2025/tab-article-info"
     ],
     "License": "CC0"
 }

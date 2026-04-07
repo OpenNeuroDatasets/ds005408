@@ -4,7 +4,7 @@ README
 Details related to access to the data
 -------------------------------------
 Please contact the following authors for further information:
-    Melissa Polonenko(email: mpolonen@umn.edu)
+    Melissa Polonenko (email: mpolonen@umn.edu) [corresponding author]
     Ross Maddox (email: rkmaddox@med.umich.edu)
 
 Overview
@@ -12,7 +12,9 @@ Overview
 This is the "peaky_snr" dataset for the paper by
 Polonenko MJ & Maddox RK, with citation listed below.
 
-BioRxiv: The effect of speech masking on the human subcortical response to continuous speech 
+eNeuro: Polonenko, M. J., & Maddox, R. K. (2025). The effect of speech masking on the human subcortical response to continuous speech. eNeuro 24 March 2025, 12 (4) ENEURO.0561-24.2025; https://doi.org/10.1523/ENEURO.0561-24.2025
+
+BioRxiv: https://www.biorxiv.org/content/10.1101/2024.12.10.627771v1
 
 Auditory brainstem responses (ABRs) were derived to continuous peaky speech
 from between one up to five simultaneously presented talkers and from clicks.
